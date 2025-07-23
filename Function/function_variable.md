@@ -23,8 +23,6 @@ python hello.py
   * **Side Effect**: What the function actually does, like showing text on the screen.
   * **Bug**: A mistake. A typo like forgetting a parenthesis is a `SyntaxError`.
 
-*Important: Don't use Microsoft Word or Google Docs. They add weird formatting. Use a text editor like VS Code.*
-
 -----
 
 #### **Getting Input with Variables**
